@@ -1,0 +1,9 @@
+/vendor/
+/data/
+/datasets/
+/seminar/
+*.csv
+*.mat
+*.zip
+__pycache__/
+*.pyc
