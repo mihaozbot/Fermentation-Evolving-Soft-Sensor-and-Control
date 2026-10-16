@@ -4,6 +4,14 @@ Small seminar example using IndPenSim. A soft sensor learns biomass from delayed
 
 There are three plots: biomass estimation, clusters and feed control. The comparison is recipe vs MPC with lab results vs MPC with the online estimate.
 
+Python:
+
+![Python demo: biomass estimation, clusters and feed control](python/demo.png)
+
+MATLAB:
+
+![MATLAB demo: biomass estimation, clusters and feed control](matlab/demo_matlab.png)
+
 ```sh
 python download_simulators.py
 python python/demo.py
